@@ -1,0 +1,51 @@
+{
+  "name": "swiggy",
+  "version": "1.0.0",
+  "description": "nayan new react project",
+  "homepage": "https://github.com/Nayan-Dubey/Swiggy-#readme",
+  "bugs": {
+    "url": "https://github.com/Nayan-Dubey/Swiggy-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nayan-Dubey/Swiggy-.git"
+  },
+  "license": "ISC",
+  "author": "nayan-dubey",
+  "type": "commonjs",
+  "main": "jest.config.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest",
+    "watch-test": "jest --watch"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "@tailwindcss/line-clamp": "^0.4.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.1.1",
+    "react-router-dom": "^6.12.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.8",
+    "@babel/preset-env": "^7.22.7",
+    "@babel/preset-react": "^7.22.5",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^14.0.0",
+    "babel-jest": "^29.6.1",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "buffer": "^6.0.3",
+    "jest": "^29.6.1",
+    "jest-environment-jsdom": "^29.6.1",
+    "parcel": "^2.9.1",
+    "postcss": "^8.4.24",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.3.2"
+  },
+  "browserslist": [
+    "last 2 Chrome versions",
+    "last 2 Firefox versions"
+  ]
+}
