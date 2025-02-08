@@ -4,6 +4,9 @@ This is a Swiggy-inspired food ordering web application built using React.js, Ta
 
 
 ![Alt Text](img.png)
+
+![Alt Text](img2.png)
+
 Features
 
 
