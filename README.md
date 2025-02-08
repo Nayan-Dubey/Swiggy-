@@ -1,7 +1,13 @@
 Swiggy Clone – MERN Stack Food Delivery App
 This is a Swiggy-inspired food ordering web application built using React.js, Tailwind CSS, and Parcel. It provides a seamless experience for users to browse restaurants, view menus, add items to their cart, and place orders.
+
+
+
 ![Alt Text](img.png)
 Features
+
+
+
 ✅ Simple Login & Logout – Basic authentication for users.
 ✅ Restaurant Listings – Browse and filter restaurants.
 ✅ Cart Management – Add/remove items with a popup cart.
