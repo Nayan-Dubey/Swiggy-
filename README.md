@@ -17,9 +17,9 @@ Future Enhancements
 
 Setup & Installation
 
-git clone https://github.com/Nayan-Dubey/Swiggy-.git
-cd swiggy-main
-npm install
-npm start
+1. git clone https://github.com/Nayan-Dubey/Swiggy-.git
+2. cd swiggy-main 
+3. npm install 
+4. npm start 
 
 
