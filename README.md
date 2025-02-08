@@ -13,3 +13,13 @@ Future Enhancements
 ✅ Payment gateway integration
 ✅ Live order tracking
 ✅ Restaurant dashboard
+
+
+Setup & Installation
+
+git clone https://github.com/Nayan-Dubey/Swiggy-.git
+cd swiggy-main
+npm install
+npm start
+
+
